@@ -35,7 +35,7 @@ python3 train.py --data ./data/mnist/ --conv2d -c ./checkpoints/trained_model
 
 ## Evaluating the models
 ```bash
-python3 train.py python3 train.py --data ./data/mnist/ --conv2d --evaluate  -c ./checkpoints/trained_model
+python3 train.py --data ./data/mnist/ --conv2d --evaluate  -c ./checkpoints/trained_model
 ```
 
 ## Authors
