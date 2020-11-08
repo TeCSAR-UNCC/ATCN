@@ -30,7 +30,7 @@ pip3 install --upgrade git+https://github.com/sovrasov/flops-counter.pytorch.git
 Change the path to the `ATCN` directory and run the `train.py`:
 ```bash
 cd ATCN
-python3 train.py python3 train.py --data ./data/mnist/ --conv2d -c ./checkpoints/trained_model
+python3 train.py --data ./data/mnist/ --conv2d -c ./checkpoints/trained_model
 ```
 
 ## Evaluating the models
