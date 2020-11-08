@@ -6,7 +6,7 @@ Agile Temporal Convolutional Network (ATCN) is a model for high-accurate fast cl
 ## Installation
 You only need to clone the Deep RACE repository:
 ```bash
-git clone https://github.com/mbaharan/ATCN --recurse-submodules
+git clone https://github.com/TeCSAR-UNCC/ATCN.git --recurse-submodules
 ```
 The following instructions are for the MNIST dataset. For `DeepRACE` or `ECG` datasets, you should switch the branch to `DeepRACE` ot `ECG` by:
 ```bash
