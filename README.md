@@ -42,4 +42,4 @@ python3 train.py python3 train.py --data ./data/mnist/ --conv2d --evaluate  -c .
 * Reza Baharani - [Personal webpage](https://rbaharani.com/)
 
 ## License
-Copyright (c) 2020, the University of North Carolina at Charlotte All rights reserved. - see the [LICENSE](https://raw.githubusercontent.com/TeCSAR-UNCC/Deep_RACE/master/LICENSE) file for details.
+Copyright (c) 2020, the University of North Carolina at Charlotte All rights reserved. - see the [LICENSE](https://raw.githubusercontent.com/TeCSAR-UNCC/ATCN/MNIST/LICENSE) file for details.
