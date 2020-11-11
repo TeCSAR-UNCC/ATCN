@@ -38,6 +38,19 @@ python3 train.py --data ./data/mnist/ --conv2d -c ./checkpoints/trained_model
 python3 train.py --data ./data/mnist/ --conv2d --evaluate  -c ./checkpoints/trained_model
 ```
 
+## Citing ATCN
+The ATCN pre-print paper can be dowanloaded from [here](https://arxiv.org/abs/2011.05260). Please also cite the ATCN if it helps your research work.
+```
+@misc{baharani2020atcn,
+      title={ATCN: Agile Temporal Convolutional Networks for Processing of Time Series on Edge}, 
+      author={Mohammadreza Baharani and Steven Furgurson and Hamed Tabkhi},
+      year={2020},
+      eprint={2011.05260},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 ## Authors
 * Reza Baharani - [Personal webpage](https://rbaharani.com/)
 
