@@ -1,0 +1,3 @@
+[submodule "time_series_augmentation"]
+	path = time_series_augmentation
+	url = https://github.com/mbaharan/time_series_augmentation.git
