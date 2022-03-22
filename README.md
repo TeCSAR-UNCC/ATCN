@@ -29,7 +29,7 @@ A custom network should be defined in the file named `./model/config.py`. Two ex
 * Reza Baharani - [Personal webpage](https://mbaharan.github.io/)
 
 ## License
-Copyright (c) 2018, the University of North Carolina at Charlotte All rights reserved. - see the [LICENSE](https://raw.githubusercontent.com/TeCSAR-UNCC/ATCN/master/LICENSE) file for details.
+Copyright (c) 2022, the University of North Carolina at Charlotte All rights reserved. - see the [LICENSE](https://raw.githubusercontent.com/TeCSAR-UNCC/ATCN/master/LICENSE) file for details.
 
 ## Acknowledgments
 
